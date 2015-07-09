@@ -1,0 +1,26 @@
+{
+  "name": "Raphael",
+  "version": "1.0.0",
+  "authors": [
+    "Alice <1445439855@qq.com>"
+  ],
+  "description": "Raphael",
+  "main": "RaphaelMap.html",
+  "keywords": [
+    "Raphael"
+  ],
+  "license": "MIT",
+  "homepage": "RaphaelMap.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.2",
+    "raphael": "~2.1.4"
+  }
+}
